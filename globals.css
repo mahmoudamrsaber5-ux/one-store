@@ -1,0 +1,2 @@
+@import "tailwindcss";
+*{box-sizing:border-box}body{margin:0;background:#f7f7f7;color:#171717;font-family:Arial,sans-serif}.container{max-width:1200px;margin:auto;padding:0 20px}.btn{background:#ff7a00;color:#fff;border:0;border-radius:12px;padding:12px 18px;font-weight:700;cursor:pointer}.card{background:#fff;border-radius:18px;border:1px solid #eee;overflow:hidden}
